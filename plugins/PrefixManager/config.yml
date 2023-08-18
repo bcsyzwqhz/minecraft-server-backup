@@ -1,0 +1,9 @@
+version: 2
+checkUpdate: true
+setting:
+  format:
+    default: '&e<&6[DISPLAYNAME]&e> &7[MESSAGE]'
+    builder: '&e<&6[DISPLAYNAME]&e> &7[MESSAGE]'
+  prefix: '&e[&6&l称号系统&e]'
+  save_interval: 1800
+  name_tag: true
